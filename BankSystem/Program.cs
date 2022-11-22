@@ -6,7 +6,7 @@ namespace BankSystem
     {
         static void Main(string[] args)
         {
-            Customer C1 = new Customer()
+            User C1 = new User()
             {
                 ID = 1,
                 Name = "Tim",
@@ -16,7 +16,7 @@ namespace BankSystem
 
             };
 
-            Customer C2 = new Customer()
+            User C2 = new User()
             {
                 ID = 2,
                 Name = "Elin",
@@ -26,7 +26,7 @@ namespace BankSystem
 
             };
 
-            Customer C3 = new Customer()
+            User C3 = new User()
             {
                 ID = 3,
                 Name = "Dennis",
@@ -36,7 +36,7 @@ namespace BankSystem
 
             };
 
-            Customer C4 = new Customer()
+            User C4 = new User()
             {
                 ID = 4,
                 Name = "Anton",
