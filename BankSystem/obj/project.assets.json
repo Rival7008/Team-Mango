@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\timni\\.nuget\\packages\\": {}
+    "C:\\Users\\Anton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timni\\Documents\\VisualStudio filer\\Team Mango\\BankSystem\\BankSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Anton\\source\\repos\\Team-Mango\\BankSystem\\BankSystem.csproj",
       "projectName": "BankSystem",
-      "projectPath": "C:\\Users\\timni\\Documents\\VisualStudio filer\\Team Mango\\BankSystem\\BankSystem.csproj",
-      "packagesPath": "C:\\Users\\timni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timni\\Documents\\VisualStudio filer\\Team Mango\\BankSystem\\obj\\",
+      "projectPath": "C:\\Users\\Anton\\source\\repos\\Team-Mango\\BankSystem\\BankSystem.csproj",
+      "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anton\\source\\repos\\Team-Mango\\BankSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\timni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,23 +51,16 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.31, 3.1.31]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

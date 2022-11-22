@@ -6,9 +6,7 @@ namespace BankSystem
     {
         static void Main(string[] args)
         {
-           
 
-           
 
         }
     }

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HjVpKiDzxgYMg6q40WQziSrN8ZZc/e9pfEeZjrhjQY6ugAHjSVQw7XkV7lbBbYs7ymI73rTY5fI1FSc9NI8KGw==",
+  "dgSpecHash": "0g8R7VElnibsPUNJgrRe4VFN94F+5u1rHhvzrafkpxZuntEkWUPNG5kkRQn7H0CszC0NEn28+O1rKeS+N7PtGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\timni\\Documents\\VisualStudio filer\\Team Mango\\BankSystem\\BankSystem.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\timni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Anton\\source\\repos\\Team-Mango\\BankSystem\\BankSystem.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

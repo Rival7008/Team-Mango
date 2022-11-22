@@ -4,38 +4,22 @@ using System.Text;
 
 namespace BankSystem
 {
-    internal class UserAccount
+    public class UserAccount
     {
-        LogIn C1 = new LogIn()
+        internal int _id { get; set; }
+        internal string _username { get; set; }
+        internal string _password { get; set; }
+
+        public UserAccount(int id, string Username, string Password)
         {
-            ID = 1,
-            UserName = "Tim1",
-            Password = "1234",
-        };
-
-        LogIn C2 = new LogIn()
+            _id = id;
+            _username = Username;
+            _password = Password;
+        }
+        
+        public override string ToString()
         {
-            ID = 2,
-            UserName = "Elin1",
-            Password = "4321",
-        };
-
-       LogIn C3 = new LogIn()
-        {
-            ID = 3,
-            UserName = "Dennis1",
-            Password = "5678",
-        };
-
-        LogIn C4 = new LogIn()
-        {
-            ID = 4,
-            UserName = "Anton1",
-            Password = "8765",
-        };
-
-
-
-
+            return $"Id: {_id}\nName: {_username}\nPassword: {_password}";
+        }
     }
 }

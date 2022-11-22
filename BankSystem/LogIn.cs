@@ -4,20 +4,64 @@ using System.Text;
 
 namespace BankSystem
 {
-    internal class LogIn
+    public class LogIn
     {
-        private int _id;
-        private string _username;
-        private string _password;
+        public static void Accounts(string[] args) 
+        {    
+            UserAccount tim = new UserAccount(1, "Tim", "1111");
+            UserAccount elin = new UserAccount(2, "Elin", "2222");
+            UserAccount dennis = new UserAccount(3, "Dennis", "3333");
+            UserAccount anton = new UserAccount(4, "Anton", "4444");
 
-        public int ID { get { return _id; } set { _id = value; } }
-        public string UserName { get { return _username; } set { _username = value; } }
-        public string Password { get { return _password; } set { _password = value; } }
+            List<UserAccount> accountList = new List<UserAccount>();
+            accountList.Add(tim);
+            accountList.Add(elin);
+            accountList.Add(dennis);
+            accountList.Add(anton);
+
+            
+            
+            //UserAccount checkuserAccount = 
+
+            int Attempt = 1;
+            do
+            {
+                Console.WriteLine("Please enter your username");
+                string UserNameInput = Console.ReadLine();
+                Console.WriteLine("Please enter your password");
+                string PasswordInput = Console.ReadLine();
+
+                for(int i = 0; i < accountList.Count; i++)
+                {
+                    if (accountList.Exists(x => string.Equals(x._username, UserNameInput)) && accountList.Exists(p => string.Equals(p._password, PasswordInput)))
+                    {
+                        Console.WriteLine("Hej");
+                        break;
+                    }
+                }
+                Attempt++;
+            } while (Attempt < 4);
+
+            //UserAccount findUserName = accountList.Find(f => f._username == UserNameInput);
+            //UserAccount findPassword = accountList.Find(p => p._password == PasswordInput);
+            
 
 
-        public int Login()
-        {
-            return 0;
+            foreach(UserAccount item in accountList)
+            {
+
+            }
         }
+
+        /*public static int SignIn()
+        {
+            Console.WriteLine("Enter your username");
+            foreach (UserAccount item in accountList)
+
+
+            return 0;
+
+        }
+        */
     }
 }
