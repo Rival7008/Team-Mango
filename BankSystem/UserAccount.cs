@@ -12,9 +12,9 @@ namespace BankSystem
 
         public UserAccount(int id, string Username, string Password)
         {
-            _id = id;
-            _username = Username;
-            _password = Password;
+            this._id = id;
+            this._username = Username;
+            this._password = Password;
         }
         
         public override string ToString()
