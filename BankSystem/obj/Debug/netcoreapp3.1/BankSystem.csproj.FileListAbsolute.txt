@@ -12,3 +12,17 @@ C:\Users\Anton\source\repos\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSy
 C:\Users\Anton\source\repos\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
 C:\Users\Anton\source\repos\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
 C:\Users\Anton\source\repos\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.AssemblyReference.cache
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfoInputs.cache
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfo.cs
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.exe
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.deps.json
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.json
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.dev.json
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\timni\Documents\GitHub\Team-Mango\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache

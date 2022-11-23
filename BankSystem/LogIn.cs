@@ -6,7 +6,7 @@ namespace BankSystem
 {
     public class LogIn
     {
-        public static void Accounts(string[] args) 
+        public static void Accounts() 
         {    
             UserAccount tim = new UserAccount(1, "Tim", "1111");
             UserAccount elin = new UserAccount(2, "Elin", "2222");
@@ -36,6 +36,7 @@ namespace BankSystem
                     if (accountList.Exists(x => string.Equals(x._username, UserNameInput)) && accountList.Exists(p => string.Equals(p._password, PasswordInput)))
                     {
                         Console.WriteLine("Hej");
+                        Attempt = 4;
                         break;
                     }
                 }
